@@ -8,7 +8,7 @@ description: |
   In/de/finite Subjectile Movements |  
   PhD Thesis Project by June Moon
 owner: June Moon # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2021
 email: junialuna@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://junialuna.github.io" # the base hostname & protocol for your site
